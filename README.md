@@ -1,1 +1,1 @@
-# InternShip_
+# Internship Studio_project
